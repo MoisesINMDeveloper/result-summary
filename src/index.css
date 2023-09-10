@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html{
+    display: flex;
+    justify-content: center;
+    font-family:'Hanken Grotesk', sans-serif; ;
+}
